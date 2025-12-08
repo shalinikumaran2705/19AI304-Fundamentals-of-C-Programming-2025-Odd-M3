@@ -57,7 +57,8 @@ int main() {
 ```
 # Output:
 
-<img width="837" height="223" alt="image" src="https://github.com/user-attachments/assets/63409220-16af-4101-8e55-90aec276d026" />
+![Screenshot_20251208_134133_Chrome](https://github.com/user-attachments/assets/5204bcb0-0028-4c14-9447-8ba765b5fcd1)
+
 
 
 # Result: 
